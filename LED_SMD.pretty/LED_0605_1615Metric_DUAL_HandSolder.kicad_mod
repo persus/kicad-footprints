@@ -1,4 +1,4 @@
-(module LED_0605_1615Metric_DUAL_HandSolder (layer F.Cu) (tedit 5E7A6D99)
+(module LED_0605_1615Metric_DUAL_HandSolder (layer F.Cu) (tedit 5E7A6EA1)
   (descr "Dual LED, 0605 (1615) 16x15 mm Surface Mount LED Lamp")
   (tags "dual led smd")
   (attr smd)
